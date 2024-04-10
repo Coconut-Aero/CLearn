@@ -3,6 +3,7 @@
 ------------------------------------------------------------------------
 
 [![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/CLearn)](https://github.com/Coconut-Aero/CLearn/commits/master)
+![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)
 
 _Updated 2024-04-10 12:00 CST_
 
